@@ -1,8 +1,5 @@
 ### Hi there 👋
-- 📖 I'm currently studying Mechanical Engineering
-- 🛡 Interested in Cybersecurity
-- 🦩Ready to learn and improve my coding skills
-- 🐍 Mostly working with Phyton
+- Here I share the solutions I found while solving my own problems, hoping they will be helpful to others.
 
 
 <!--
